@@ -3,10 +3,10 @@
  * @author a10x
  * @description Adds a volume slider to your current VC to control the volumes of all the users in the VC at the same time
  * @version 0.0.1
- * @source https://gist.github.com/a10x/?
+ * @source https://gist.github.com/a10x/84e305a2a9d6759e792c637779f59713
  */
 
- class _VCVolumeSetup{
+class _VCVolumeSetup{
 	constructor() { 
 		this._config = {
 			info: {
@@ -19,8 +19,8 @@
 				],
 				version: "0.0.1",
 				description: "Adds a volume slider to your current VC to control the volumes of all the users in the VC at the same time",
-				github: "https://gist.github.com/a10x/?",
-				github_raw: ""
+				github: "https://gist.github.com/a10x/84e305a2a9d6759e792c637779f59713",
+				github_raw: "https://gist.githubusercontent.com/a10x/84e305a2a9d6759e792c637779f59713/raw/c087630f39dfd39f68385888a64be2a1410dc4a9/vc_volume.plugin.js"
 			},
 			defaultConfig: []
 		};
